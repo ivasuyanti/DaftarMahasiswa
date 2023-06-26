@@ -5,7 +5,7 @@ import com.example.daftarmahasiswa.model.Student
 import kotlinx.coroutines.flow.Flow
 
 class StudentRepository(private val studentDao: StudentDao) {
-    val allStudent: Flow<List<Student>> = studentDao.getAllStudent()
+    val allStudents: Flow<List<Student>> = studentDao.getAllStudent()
 
     suspend fun insertStudent(student: Student) {
         studentDao.insertStudent(student)
