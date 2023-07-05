@@ -16,5 +16,9 @@ data class Student (
     val name: String,
     val major: String,
     val clazz: String,
-    val address: String
-        ) : Parcelable
+    val address: String,
+    val latitude: Double?,
+    val longitude: Double?
+
+
+    ) : Parcelable
