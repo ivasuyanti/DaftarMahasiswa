@@ -18,6 +18,14 @@
  <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-07-14%20register1.png" width="300" height="500">
 
   ## HALAMAN KETIGA
-  untuk masuk ke halaman berikutnya, maka harus melakukan login terlebih dahulu. Dengan cara memasukkan username dan password yang telah digunakan untuk register sebelumnya
+  Untuk masuk ke halaman berikutnya, maka harus melakukan login terlebih dahulu. Dengan cara memasukkan username dan password yang telah digunakan untuk register sebelumnya
   
 <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-07-14%20login.png" width="300" height="500">
+
+ ## HALAMAN KEEMPAT
+ Setelah melakukan login, maka akan ditampilkan halaman daftar mahasiswa. Apabila tidak ada daftar mahasiswa maka tampilannya adalah DAFTAR MAHASISWA TIDAK DITEMUKAN. Untuk itu bisa ditambahkan data dengan klik icon +
+
+ <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-06-22%20depan.png" width="300" height="500">
+
+<img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-06-22%20tambah.png" width="300" height="500">
+
