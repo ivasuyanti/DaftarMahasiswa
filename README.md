@@ -49,14 +49,23 @@
    <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-06-24%204.Delete.png" width="300" height="500">
 
    ## TAMPILAN MAP
-
+    Menambahkan fitur map untuk mendeteksi alamat mahasiswa
+    
    <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-07-01%20map1.png" width="300" height="500">
 
+    Menampilkan custom marker pada map
+   
    <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-07-01%20map2.png" width="300" height="500">
 
+    Menampilkan set permission pada map
+    
    <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-07-01%20map3.png" width="300" height="500">
 
+    Menampilkan get current location pada map
+    
    <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-07-01%20map4.png" width="300" height="500">
+
+    Menyimpan koordinat di room database 
 
    <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-07-01%20map6.png" width="300" height="500">
 
