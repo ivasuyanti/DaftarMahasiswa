@@ -191,6 +191,8 @@ class SecondFragment : Fragment(), OnMapReadyCallback, GoogleMap.OnMarkerDragLis
                     mMap.addMarker(markerOption)
                     mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latLang, 15f))
                 }
+
             }
+
     }
 }
