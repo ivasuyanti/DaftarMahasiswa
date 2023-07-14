@@ -49,7 +49,7 @@
    <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-06-24%204.Delete.png" width="300" height="500">
 
    ## TAMPILAN MAP
-    Menampilkan fitur map
+    Menambahkan fitur map untuk mendeteksi alamat mahasiswa
     
    <img src="https://github.com/ivasuyanti/DaftarMahasiswa/blob/main/Screenshot%202023-07-01%20map1.png" width="300" height="500">
 
